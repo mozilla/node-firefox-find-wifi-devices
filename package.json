@@ -1,0 +1,41 @@
+{
+  "name": "node-firefox-find-wifi-devices",
+  "version": "1.0.0",
+  "description": "Find Firefox devices using wifi discovery",
+  "main": "index.js",
+  "dependencies": {
+    "es6-promise": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "mockery": "^1.4.0",
+    "node-firefox-build-tools": "^0.1.0",
+    "nodemock": "^0.3.4"
+  },
+  "scripts": {
+    "gulp": "gulp",
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mozilla/node-firefox-find-wifi-devices.git"
+  },
+  "keywords": [
+    "firefox",
+    "developer tools",
+    "b2g",
+    "firefox os",
+    "firefoxos",
+    "fxos",
+    "ports"
+  ],
+  "author": "Mozilla (https://mozilla.org/)",
+  "contributors": [
+    "Les Orchard <me@lmorchard.com> (http://lmorchard.com)"
+  ],
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/mozilla/node-firefox-find-wifi-devices/issues"
+  },
+  "homepage": "https://github.com/mozilla/node-firefox-find-wifi-devices"
+}
