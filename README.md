@@ -27,12 +27,6 @@ git pull origin master
 npm install
 ```
 
-### npm
-
-```bash
-npm install node-firefox-find-wifi-devices
-```
-
 ## Usage
 
 Docs to be written.
